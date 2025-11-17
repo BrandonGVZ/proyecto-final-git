@@ -29,3 +29,6 @@
 #git pull. 
 
 #El flujo que se aplico fue primero hacer el repositorio, crear un commit, en VScode publicar el repositorio a githud y en su interfaz crear las ramas.
+
+#Se realizo fork al mismo respositorio desde otra cuenta https://github.com/BrandonGVZ/proyecto-final-git.git
+
